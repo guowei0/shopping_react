@@ -1,0 +1,72 @@
+{
+    "types":[{
+        "id":0,
+        "type":"mobile",
+        "name":"手机数码",
+        "datatype":[{
+            "name":"vivo NEX 双屏版 AI三摄 游戏手机 10GB+128GB 冰原蓝 移动联通电信全网通4G手机vo",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t1/28689/24/1135/249196/5c0fa5e9Eea3bce60/d63a58606745e7c2.jpg!q80.dpg.webp",
+            "price":4998.00,
+            "count":0,
+            "check":false
+        },{
+            "name":"小米（MI）小米电视4A 65英寸 L65M5-AZ/L65M5-AD 2GB+8GB HDR 4K超高清 人工智能网络液晶平板电视",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t27922/153/63458201/314845/541dab6a/5be66a11Nb72df941.jpg!q80.dpg.webp",
+            "price":3699.00,
+            "count":0,
+            "check":false
+        },{
+            "name":"Bose SoundLink Mini蓝牙扬声器II-黑色 无线音箱/音响",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t1/2331/27/13221/167937/5bd6d7b2Ef57831dd/aaa253f58d0abe0f.jpg!q80.dpg.webp",
+            "price":1798.00,
+            "count":0,
+            "check":false
+        }]
+    },{
+        "id":1,
+        "type":"computer",
+        "name":"电脑办公",
+        "datatype":[{
+            "name":"联想(Lenovo)拯救者Y7000 15.6英寸游戏笔记本电脑(英特尔八代酷睿i5-8300H 8G 512G SSD GTX1050 黑)",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t27163/354/1454412463/213745/cb143ad4/5bc8229fN71106836.jpg!q80.dpg.webp",
+            "price":5699.00,
+            "count":0,
+            "check":false
+        },{
+            "name":"罗技（G）G610 Cherry轴全尺寸背光机械游戏键盘 机械键盘 青轴 吃鸡键盘 绝地求生",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t3268/132/227094941/162137/a1ffa50f/57abe0a0Ne962f9b2.jpg!q80.dpg.webp",
+            "price":449.00,
+            "count":0,
+            "check":false
+        },{
+            "name":"罗技（G）G502 炫光自适应游戏鼠标RGB鼠标FPS鼠标吃鸡鼠标绝地求生",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t2503/297/1984445390/108957/1a139d72/568f56f4N51dbec26.jpg!q80.dpg.webp",
+            "price":399.00,
+            "count":0,
+            "check":false
+        }]
+    },{
+        "id":2,
+        "type":"AutoSupplies",
+        "name":"汽车用品",
+        "datatype":[{
+            "name":"定金   东风本田 思域 2016款 1.5T 自动豪华版 彩金黑",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t1/710/7/13831/108919/5bd7f6a6E16a09cdc/8b7788c7a9942ed2.jpg!q80.dpg.webp",
+            "price":3000.00,
+            "count":0,
+            "check":false
+        },{
+            "name":"驰文骏 十代 思域 尾喉 本田 后扰流板双边双出四出排气 改装专用汽车配件 后扰流板-碳纤纹CIVCI标带灯款 汽车用品",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t24025/43/94421805/628960/a4647bc1/5b25195eN138143e0.jpg!q80.dpg.webp",
+            "price":480.00,
+            "count":0,
+            "check":false
+        },{
+            "name":"16 17寸负值越野轮毂牧马人普拉多BJ40劲畅帕拉丁哈弗H5黑金刚 消光黑涂装 17x9J",
+            "pic":"//m.360buyimg.com/mobilecms/s750x750_jfs/t24715/139/1259589427/201138/ebd6534e/5b904fcdN54538652.jpg!q80.dpg.webp",
+            "price":1128.00,
+            "count":0,
+            "check":false
+        }]
+    }]
+}
